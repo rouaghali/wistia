@@ -1,0 +1,365 @@
+.imglogo{  
+    width: 19%;
+    height: 10%;
+    margin-top: 3%;
+}
+ .navbar{
+
+    display: flex;
+    
+}
+
+.navmenu  { 
+    margin-left: 5%;
+
+    width: 60%;
+     
+} 
+.navmenu a{ 
+    margin-right:10px;
+    
+    margin-left: 20px;
+
+     margin-top: 30px;
+      margin-bottom: 30px ;
+
+} 
+.boutons> button{
+    width: 43%;
+    height: 100%;
+    background-color: white;
+}
+.boutons{
+    flex-grow: 1;
+    padding: -3px 5vw;
+    min-width: 243px;
+    min-height: 102px;
+    margin-bottom: -4%;
+    border-right: 1px solid #EFEF
+}
+
+.signup a{ 
+    color: #3EA9F5;
+
+
+}
+a span{
+    color:black;  
+}
+
+.nav1{
+
+    margin-top: 2%;
+    height: 69%;
+    margin-left: 3%;
+    
+
+}
+
+ .nav2{
+    background-color: rgb(249, 249, 249);
+    height: -3vw;
+    max-height: 60;
+    position: absolute;
+    padding: 17px 2vw;
+
+    
+    border-top: 1px solid rgb(239, 239, 239);
+    
+ }
+ 
+ .nav1 a{ 
+    margin-right: 3%  ; 
+
+   }
+
+
+ .pink{
+   background-color: rgb(236, 147, 236); 
+   margin-top: 4%;
+   display:flex;
+   
+ }
+
+.text button{
+    padding: 9px 88px
+
+}
+ .text{
+    margin-left: 119px;
+    font-size: large;
+} 
+
+.boxes {
+
+display: flex;
+
+
+}
+
+
+.pink>.gif {
+    margin-left: 53%;
+}
+iframe{
+
+    height: 496px;
+    width: 611px;
+    margin-left: -45%;
+}
+.boxes p span {
+
+color: white;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 15px 0 10px;
+    width: 100%;
+}
+
+
+
+
+.boxes p {
+
+    font-size: large;
+}
+
+.boxes div {
+
+flex-grow: 1;
+
+}
+
+.logo div img {
+    width: 80%;
+    max-width: 170px;
+    height: 60%;
+}
+.logo div  p {
+    color: #9CA8B7;
+    font-size: 21px;
+    font-weight: 500;
+    margin-top: 55%;
+   
+}
+
+.logo div .mov {
+    width: 80%;
+    max-width: 170px;
+    height: 60%;
+}
+
+.logo div .z {
+    width: 80%;
+    max-width: 170px;
+    height: 60%;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+
+}
+.logo div .un {
+    width: 80%;
+    max-width: 170px;
+    height: 60%;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+
+}
+.logo div .c {
+    width: 80%;
+    max-width: 170px;
+    height: 60%;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+.logo {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+
+}
+
+.logo div {
+    justify-content: center;
+    height: 625px;
+}
+
+
+
+.boxes .b1 svg {
+    color: rgb(62, 169, 245);
+    height: 101px;
+    width: 83px;
+} 
+
+.boxes div .all {
+    margin-left: 10%;
+    
+
+}
+
+.boxes  div .all  p {
+
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 26px;
+    width: 110%;
+    
+    color: #2A2D35;
+    font-family: Walsheim;
+}
+
+
+
+.pic33 div img {
+width:20%;
+    height: 20%
+}
+
+
+
+
+.boxes .start {border-color: rgba(255,255,255,0.55);
+    background-color: transparent;
+    font-size: 26px;
+    height: 60px;
+    align-items: center;
+    border: 4px solid white;
+    border-radius: 5px;
+    
+}
+div .photo svg {
+    height: 101px;
+    width: 83px;
+    color: rgb(231, 184, 199);
+}
+
+   .boxes div .all2 {
+    margin-left: 10%;}
+
+     .boxes div .all3 {
+
+        margin-left: 10%;
+     }
+    
+
+ div .pic svg {
+    color: rgb(254, 210, 74);
+    height: 101px;
+    width: 83px;
+ }
+.boxes .explore {
+    font-size: 18px;
+    height: 60px;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: transparent;
+}
+ .all  strong {
+    font-family: Walsheim;
+    font-size: large;
+}
+.all2 p {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 26px;
+    width: 110%;
+    
+    color: #2A2D35;
+    font-family: Walsheim;
+}
+.all3 p {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 26px;
+    width: 110%;
+    
+    color: #2A2D35;
+    font-family: Walsheim;
+}
+.boxes p span {
+
+    line-height: 48px;
+    font-size: 111%;
+}
+
+.text button {
+    padding: 30px 102px;
+    align-items: center;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    bottom: 0;}
+    text button strong {
+        font-size: 80%;
+    }
+    .pic33 div  .img1 {
+        height: 63%;
+    width: 100%;
+    }
+
+    strong, b {
+        font-size: x-large;
+    }
+    p{
+        color: #2A2D35;
+    font-family: -WEBKIT-PICTOGRAPH;
+    font-size: large;
+    }
+
+     .pic33 div {
+
+        margin-left: 3%;
+    }
+    .pic33{
+        display: flex;
+    }
+    a {
+        font-size: larger;
+    }
+
+    .grey {
+        
+        background-color: #EFEFEF;
+        padding: 25px 40px;
+        text-align: center;
+        margin-top: 5%;
+
+    }
+
+    .follow p {
+        font-size: large;
+    font-weight: 500;
+    line-height: 1.5;
+    max-width: 271px;
+    color: white;
+    
+    }
+    .footer {
+        background-color: #2A2D35;
+    }
+    .contact span {
+        color: rgb(0, 174, 255);
+    }
+    h3{
+        line-height: 2;
+    color: white;
+    margin-left: 3%;
+    }
+    li a {
+        text-decoration: none;
+    color: gray;
+    
+    }
+    li{
+        list-style: none;
+    }
+
+    .list {
+        display: flex;
+    }
+    .footer {
+        display:flex;
+    }
